@@ -123,11 +123,11 @@ span{
 }
 
 .images{
-    width: 40%;
-    height: 40%;
+    width: 60%;
+    height: 65%;
     position: absolute;
-    margin-left: -12%;
-    bottom: 41%;
+    right: 5%;
+    bottom: 5%;
     padding: 12px;
     object-fit:cover;
     display: flex
@@ -141,7 +141,7 @@ span{
     height: 100%;
     width: 100%;
     position: absolute;
-    margin-left: auto;
+    right: auto;
     bottom: 7%;
     image-resolution: 720px;
     max-width: 100%;
